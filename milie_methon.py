@@ -41,3 +41,4 @@ for i in range(n):
     print('YES' if IsPrime(p, 1) else 'NO')
 
 # http://www.cnblogs.com/Mathics/p/4028819.html
+#代码强制被人喜欢，人家人爱，花见花开
